@@ -7,11 +7,13 @@
         name="Sahil Saspara"
         phone-number="1234567890"
         email-address="sahil@localhost.com"
+        is-favorite="1"
       ></friend-contact>
       <friend-contact
         name="Vivek Kapuriya"
         phone-number="0987654321"
         email-address="vivek@localhost.com"
+        is-favorite="0"
       ></friend-contact>
     </ul>
   </section>
